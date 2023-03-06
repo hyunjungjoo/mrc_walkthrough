@@ -1,0 +1,20 @@
+---
+title: "Untitled"
+format: html
+editor: visual
+---
+
+```{r}
+#! label: setup
+#! message: false
+#! warning: false
+
+library("tidyverse")
+library("ds4ling")
+```
+
+```{r}
+#! label: explore-data
+#! tbl-cap: "Hello"
+
+```
